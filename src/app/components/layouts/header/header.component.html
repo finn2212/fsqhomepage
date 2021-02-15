@@ -1,0 +1,57 @@
+<!--====== HEADER PART START ======-->
+<header class="header-area header-area-2 header-area-4">
+    <div class="header-top pl-30 pr-30 white-bg">
+        <div class="row align-items-center">
+            <div class="col-md-6 col-sm-7">
+                <div class="header-left-side text-center text-sm-left">
+                    <ul>
+                        <li><a href="#"><i class="fal fa-envelope"></i> info@webmail.com</a></li>
+                        <li><a href="#"><i class="fal fa-phone"></i> 786 875 864 75 7</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-5">
+                <div class="header-right-social text-center text-sm-right">
+                    <ul>
+                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fab fa-behance"></i></a></li>
+                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-nav">
+        <div class="navigation">
+            <nav class="navbar navbar-expand-lg navbar-light ">
+                <a class="navbar-brand" routerLink='/'><img src="assets/images/logo.png" alt=""></a> <!-- logo -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="toggler-icon"></span>
+                    <span class="toggler-icon"></span>
+                    <span class="toggler-icon"></span>
+                </button> <!-- navbar toggler -->
+                <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item active">
+                            <a class="nav-link" routerLink='/'>Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" routerLink='/services'>Services</a>
+                            <ul class="sub-menu">
+                                <li><a routerLink='/services' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Services</a></li>
+                                <li><a routerLink='/service-detail' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Services Details</a></li>
+                            </ul> <!-- sub menu -->
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" routerLink='/contact-us' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Contact</a>
+                        </li>
+                    </ul>
+                </div> <!-- navbar collapse -->
+                
+            </nav>
+        </div> <!-- navigation -->
+    </div>
+</header>
+<!--====== HEADER PART ENDS ======-->
