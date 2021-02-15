@@ -11,6 +11,7 @@ import { ErrorComponent } from './components/pages/error/error.component';
 import { FaqComponent } from './components/pages/faq/faq.component';
 import { ServicesComponent } from './components/pages/services/services.component';
 import { MainHomeComponent } from './components/pages/main-home/main-home.component';
+import { CookieService } from 'ngx-cookie-service';
 
 @NgModule({
   declarations: [
@@ -29,6 +30,6 @@ import { MainHomeComponent } from './components/pages/main-home/main-home.compon
     AppRoutingModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent,CookieService]
 })
 export class AppModule { }
