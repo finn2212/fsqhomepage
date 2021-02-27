@@ -12,6 +12,20 @@ import { FaqComponent } from './components/pages/faq/faq.component';
 import { ServicesComponent } from './components/pages/services/services.component';
 import { MainHomeComponent } from './components/pages/main-home/main-home.component';
 
+import { HashLocationStrategy, LocationStrategy } from '@angular/common';
+
+import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
+import { LOCALE_ID } from '@angular/core';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+import { MatButtonToggleModule } from '@angular/material/button-toggle';
+
+export function HttpLoaderFactory(httpClient: HttpClient) {
+  return new TranslateHttpLoader(httpClient);
+}
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -26,9 +40,19 @@ import { MainHomeComponent } from './components/pages/main-home/main-home.compon
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    MatButtonToggleModule,
+    TranslateModule.forRoot({
+      loader: {
+        provide: TranslateLoader,
+        useFactory: HttpLoaderFactory,
+        deps: [HttpClient]
+      }
+    }),
+    BrowserAnimationsModule
   ],
-  providers: [],
+  providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy }, { provide: LOCALE_ID, useValue: window.navigator.language },],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

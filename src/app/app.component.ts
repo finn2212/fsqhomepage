@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { Router, NavigationStart, NavigationCancel, NavigationEnd } from '@angular/router';
 import { Location, LocationStrategy, PathLocationStrategy } from '@angular/common';
 import { filter } from 'rxjs/operators';
+import { TranslateService } from '@ngx-translate/core';
+
 declare let $: any;
 
 @Component({
@@ -19,13 +21,21 @@ export class AppComponent implements OnInit {
   location: any;
   routerSubscription: any;
 
-  constructor(private router: Router) {
+  constructor(
+      private router: Router,
+      private translateService: TranslateService) {
+        translateService.addLangs(['en', 'fr', 'de']);
+        translateService.setDefaultLang('en');
+
+    const browserLang = translateService.getBrowserLang();
+    translateService.use(browserLang.match(/en|fr|de/) ? browserLang : 'en');
   }
 
   ngOnInit(){
       this.recallJsFuntions();
   }
 
+  
   recallJsFuntions() {
       this.router.events
       .subscribe((event) => {

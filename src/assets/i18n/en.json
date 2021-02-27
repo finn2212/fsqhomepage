@@ -1,0 +1,13 @@
+{
+    "HEADER": {
+      "ABOUT": "About",
+      "TITLE": "hello titile",
+      "LANGUAGE": "Language",
+      "HELP"   : "Help" 
+      
+    },
+    "FOOTER":{
+      "EN":"English",
+      "DE":"German"
+    }
+}
