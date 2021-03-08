@@ -7,8 +7,7 @@ import { MainHomeComponent } from './components/pages/main-home/main-home.compon
 import { WebdesignComponent } from './components/pages/webdesign/webdesign.component';
 import { EcommerceComponent } from './components/pages/ecommerce/ecommerce.component';
 import { SoftwaresolutionsComponent } from './components/pages/softwaresolutions/softwaresolutions.component';
-import { ImpressumComponent } from './components/pages/Impressum/impressum.component';
-
+import { AboutusComponent } from './components/pages/aboutus/aboutus.component';
 
 
 const routes: Routes = [
@@ -34,7 +33,10 @@ const routes: Routes = [
     path:'services',component:ServicesComponent
   },
   {
-    path:'impressum', component:ImpressumComponent
+    path:'about-us',component:AboutusComponent
+  },
+  {
+    path:'**',component:ErrorComponent
   },
   {
     path:'**',component:ErrorComponent
