@@ -8,6 +8,7 @@ import { ImpressumComponent } from './components/pages/Impressum/impressum.compo
 import { WebdesignComponent } from './components/pages/webdesign/webdesign.component';
 import { EcommerceComponent } from './components/pages/ecommerce/ecommerce.component';
 import { SoftwaresolutionsComponent } from './components/pages/softwaresolutions/softwaresolutions.component';
+import { AboutusComponent } from './components/pages/aboutus/aboutus.component';
 
 
 const routes: Routes = [
@@ -31,6 +32,9 @@ const routes: Routes = [
   },
   {
     path:'services',component:ServicesComponent
+  },
+  {
+    path:'about-us',component:AboutusComponent
   },
   {
     path:'**',component:ErrorComponent
