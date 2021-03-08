@@ -42,7 +42,7 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     FaqComponent,
     ServicesComponent,
     MainHomeComponent,
-    ImpressumComponent
+    ImpressumComponent,
     WebdesignComponent,
     EcommerceComponent,
     SoftwaresolutionsComponent,
