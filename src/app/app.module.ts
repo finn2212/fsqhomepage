@@ -21,6 +21,10 @@ import { LOCALE_ID } from '@angular/core';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { MatButtonToggleModule } from '@angular/material/button-toggle';
+import { WebdesignComponent } from './components/pages/webdesign/webdesign.component';
+import { EcommerceComponent } from './components/pages/ecommerce/ecommerce.component';
+import { SoftwaresolutionsComponent } from './components/pages/softwaresolutions/softwaresolutions.component';
+import { SocialmediaComponent } from './components/pages/socialmedia/socialmedia.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient);
@@ -36,7 +40,11 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     ErrorComponent,
     FaqComponent,
     ServicesComponent,
-    MainHomeComponent
+    MainHomeComponent,
+    WebdesignComponent,
+    EcommerceComponent,
+    SoftwaresolutionsComponent,
+    SocialmediaComponent
   ],
   imports: [
     BrowserModule,
