@@ -4,6 +4,7 @@ import { ErrorComponent } from './components/pages/error/error.component';
 import { ContactComponent } from './components/pages/contact/contact.component';
 import { ServicesComponent } from './components/pages/services/services.component';
 import { MainHomeComponent } from './components/pages/main-home/main-home.component';
+import { ImpressumComponent } from './components/pages/Impressum/impressum.component';
 
 
 const routes: Routes = [
@@ -18,6 +19,9 @@ const routes: Routes = [
   },
   {
     path:'**',component:ErrorComponent
+  },
+  {
+    path:'**',component:ImpressumComponent
   }
 ];
 
