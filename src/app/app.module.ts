@@ -11,6 +11,7 @@ import { ErrorComponent } from './components/pages/error/error.component';
 import { FaqComponent } from './components/pages/faq/faq.component';
 import { ServicesComponent } from './components/pages/services/services.component';
 import { MainHomeComponent } from './components/pages/main-home/main-home.component';
+import { ImpressumComponent } from './components/pages/Impressum/impressum.component';
 
 import { HashLocationStrategy, LocationStrategy } from '@angular/common';
 
@@ -41,6 +42,7 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     FaqComponent,
     ServicesComponent,
     MainHomeComponent,
+    ImpressumComponent
     WebdesignComponent,
     EcommerceComponent,
     SoftwaresolutionsComponent,
