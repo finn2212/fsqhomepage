@@ -1,13 +1,42 @@
 {
-    "HEADER": {
-      "ABOUT": "Über",
-      "TITLE": "hello titile",
-      "LANGUAGE": "Language",
-      "HELP"   : "Help" 
-      
-    },
-    "FOOTER":{
-      "EN":"Englisch",
-      "DE":"Deutsch"
-    }
+  "HEADER": {
+    "ABOUT": "Über",
+    "TITLE": "hello titile",
+    "LANGUAGE": "Language",
+    "HELP": "Help"
+  },
+  "FOOTER": {
+    "EN": "Englisch",
+    "DE": "Deutsch"
+  },
+  "HOME": {
+    "HEADER1": "Fsquared Media",
+    "HEAEDR2": "IT Solutions",
+    "HEADER3": "Make your next step",
+    "BUTTON_QUOTE": "Jetzt Kontaktieren",
+    "BUTTON_MORE": "Mehr Erfahren"
+  },
+  "WHATWEOFFER": {
+    "HEADER1": "Unsere Leistungen",
+    "HEADER2": "Es ist unsere Leidenschaft Ihre IT Probleme zu lösen",
+    "TEXT1": "Unsere Aufgabe ist es, Ihre Potentiale zu ergründen und Ihr Unternehmen bestmöglich in den digitalen Medien zu platzieren. Welche Kanäle hierfür ausgewählt werden, kommt ganz auf die Gewohnheiten Ihrer Zielgruppe an. Dabei werden in Zusammenarbeit mit Ihnen Ziele definiert. (Achtung umformulieren)",
+    "SERVICE_HEADER1": "Webdesign",
+    "SERVICE_TEXT1": "Der erste Eindruck entscheidet über Erflog oder Misserflog. Wir unterstützen sie bei ihrem profressionellen Onlineauftritt",
+    "SERVICE_HEADER2": "E-Commerce",
+    "SERVICE_TEXT2": "Wir bringen dein Produkt (endlich) auch virtuell zu deinen Kunden",
+    "SERVICE_HEADER3": "Software",
+    "SERVICE_TEXT3": "Schwierigkeiten mit manuellen Prozessen? Hier geht's zur Lösung ",
+    "SERVICE_HEADER4": "Social Media",
+    "SERVICE_TEXT4": "Mit gesteigerter Reichweite noch erfolgreicher werden und skalieren"
+  },
+  "DIGITALSTRATEGY": {
+    "HEADER1": "MEHR ALS NUR PROBLEM LÖSER",
+    "HEADER2": "Wir Entwicklen ihre Ganzheitliche Digitale Stragie",
+    "ECOMMERCE_HEADER": "Maximierung des E-Commerce Erflogs",
+    "ECOMMERCE_TEXT": "Gutes lässt sich immer optimieren, daher Entwicklern wir ihre Lösung Kontinuierlich weiter und untersützen eine erflogreiche und Kundenorientierte E-Commerce Strategie zu entwerfen. ",
+    "DIGITAL_HEADER": "Digitale Unternehnemsstrategie",
+    "DIGITAL_TEXT": "Wir kalkulieren ihre Chancen und Riskien und assistieren sie dabei ihren Unternehmserflog druch den Einsatz digitaler Technologien zu steigern.",
+    "SOCIALMEIDA_HEADER": "Social Media Marketing Strategie",
+    "SOCIALMEDIA_TEXT": "Unser Ziel ist es ihren Social Media Auftritt mit Strategischen Grundlagen auf das nächste Level zu bringen. Diese leitet ihre Aktivitäten und informiert über Erfloge und Fehlschläge."
+  }
 }
