@@ -4,7 +4,6 @@ import { ErrorComponent } from './components/pages/error/error.component';
 import { ContactComponent } from './components/pages/contact/contact.component';
 import { ServicesComponent } from './components/pages/services/services.component';
 import { MainHomeComponent } from './components/pages/main-home/main-home.component';
-import { ImpressumComponent } from './components/pages/Impressum/impressum.component';
 import { WebdesignComponent } from './components/pages/webdesign/webdesign.component';
 import { EcommerceComponent } from './components/pages/ecommerce/ecommerce.component';
 import { SoftwaresolutionsComponent } from './components/pages/softwaresolutions/softwaresolutions.component';
@@ -40,8 +39,8 @@ const routes: Routes = [
     path:'**',component:ErrorComponent
   },
   {
-    path:'**',component:ImpressumComponent
-  }
+    path:'**',component:ErrorComponent
+  },
 ];
 
 @NgModule({
