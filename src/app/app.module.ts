@@ -27,6 +27,8 @@ import { EcommerceComponent } from './components/pages/ecommerce/ecommerce.compo
 import { SoftwaresolutionsComponent } from './components/pages/softwaresolutions/softwaresolutions.component';
 import { SocialmediaComponent } from './components/pages/socialmedia/socialmedia.component';
 import { AboutusComponent } from './components/pages/aboutus/aboutus.component';
+import { ContactComponentComponent } from './components/layouts/contact-component/contact-component.component';
+import { WhatwedidComponent } from './components/layouts/whatwedid/whatwedid.component';
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient);
@@ -48,7 +50,9 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     EcommerceComponent,
     SoftwaresolutionsComponent,
     SocialmediaComponent,
-    AboutusComponent
+    AboutusComponent,
+    ContactComponentComponent,
+    WhatwedidComponent
   ],
   imports: [
     BrowserModule,
