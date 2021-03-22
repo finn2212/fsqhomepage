@@ -24,22 +24,22 @@
                 <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active">
-                            <a class="nav-link" routerLink='/'>Home</a>
+                            <a class="nav-link" routerLink='/'>{{'HEADER.HOME'| translate }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" routerLink='/services'>Unsere Leistungen</a>
+                            <a class="nav-link" routerLink='/services'>{{'HEADER.OURSERVICES'| translate }}</a>
                             <ul class="sub-menu">
-                                <li><a routerLink='/webdesign' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Webdesign</a></li>
-                                <li><a routerLink='/ecommerce' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">E-Commerce</a></li>
-                                <li><a routerLink='/softwaresolutions' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Software Solutions</a></li>
-                                <li><a routerLink='/webdesign' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Social Media</a></li>
+                                <li><a routerLink='/webdesign' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">{{'HEADER.WEBDESIGN'| translate }}</a></li>
+                                <li><a routerLink='/ecommerce' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">{{'HEADER.ECOM'| translate }}</a></li>
+                                <li><a routerLink='/softwaresolutions' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">{{'HEADER.SOFTWARESOLUTIONS'| translate }}</a></li>
+                                <li><a routerLink='/webdesign' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">{{'HEADER.SOCIALMEDIA'| translate }}</a></li>
                             </ul> <!-- sub menu -->
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" routerLink='/about-us' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Über Uns</a>
+                        <li class="nav-item active">
+                            <a class="nav-link" routerLink='/about-us' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">{{'HEADER.ABOUTUS'| translate }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" routerLink='/contact-us' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">Kontakt</a>
+                            <a class="nav-link" routerLink='/contact-us' routerLinkActive="active"[routerLinkActiveOptions]="{exact: true}">{{'HEADER.CONTACT'| translate }}</a>
                         </li>
                     </ul>
                 </div> <!-- navbar collapse -->

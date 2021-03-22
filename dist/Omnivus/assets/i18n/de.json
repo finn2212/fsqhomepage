@@ -19,24 +19,40 @@
   "WHATWEOFFER": {
     "HEADER1": "Unsere Leistungen",
     "HEADER2": "Ihr Anliegen ist unsere Leidenschaft",
-    "TEXT1": "Unsere Leidenschaft ist es die Digitalisierung ihres Unternehms auf das nächste Level zu heben. Dabei ergründen wir mit ihnen zusammen ungenutzte Potentiale und platzieren sie best möglich im Markt. Spezalisiert sind wir auf die Entwicklung von digitalen Lösungen wie Webshops, Webapplikationen oder Mobilen Andwendungen für IOS und Android. Unsere Rolle als Team ist es sie umfassend zu bertreun und sie auch nach erflogreicher Entwicklung weiterhin im Social Media Marketing zu untersützen. ",
+    "TEXT1": "Unsere Leidenschaft ist es, die Digitalisierung ihres Unternehms auf das nächste Level zu heben. Dabei ergründen wir mit ihnen zusammen ungenutzte Potentiale und platzieren sie bestmöglich im Markt. Spezalisiert sind wir auf die Entwicklung von digitalen Lösungen, wie Webshops, Webapplikationen oder Mobilen Andwendungen für iOS und Android. Unsere Rolle als Team ist es, sie umfassend zu bertreuen und sie auch nach erflogreicher Entwicklung weiterhin im Social Media Marketing zu untersützen. ",
     "SERVICE_HEADER1": "Webdesign",
     "SERVICE_TEXT1": "Der erste Eindruck entscheidet über Erflog oder Misserflog. Wir unterstützen sie bei ihrem profressionellen Onlineauftritt.",
     "SERVICE_HEADER2": "E-Commerce",
-    "SERVICE_TEXT2": "Sklaieren sie ihr Geschäft auf die nächste Stufe. Mithilfe eines Webshops sind sie auch nach Ladenschluss erreichbar.",
+    "SERVICE_TEXT2": "Sklaieren sie ihr Geschäft auf die nächste Ebene. Mithilfe eines Webshops sind sie auch nach Ladenschluss jederzeit erreichbar.",
     "SERVICE_HEADER3": "Software",
     "SERVICE_TEXT3": "Mobile Apps, Webapplikationen oder auch Datenimporte, wir entwickleren ihre indivuelle Komplettlösung.",
     "SERVICE_HEADER4": "Social Media",
-    "SERVICE_TEXT4": "Mithilfe von Social Media können helfen wir ihnen ihre Zielgruppe optimal anzusprechen und ihre Umsätze zu steigen."
+    "SERVICE_TEXT4": "Mithilfe des gezielten Einsatzes von Social Media helfen wir ihnen, ihre Zielgruppe optimal anzusprechen und ihre Umsätze zu steigen."
   },
   "DIGITALSTRATEGY": {
     "HEADER1": "MEHR ALS NUR PROBLEM LÖSER",
     "HEADER2": "Wir Entwicklen ihre Ganzheitliche Digital Stragie",
     "ECOMMERCE_HEADER": "Maximierung des E-Commerce Erflogs",
-    "ECOMMERCE_TEXT": "Gutes lässt sich immer optimieren, daher Entwicklern wir ihre Lösung Kontinuierlich weiter und untersützen eine erflogreiche und Kundenorientierte E-Commerce Strategie zu entwerfen. ",
+    "ECOMMERCE_TEXT": "Gutes lässt sich immer optimieren, daher Entwicklern wir ihre Lösung kontinuierlich weiter und untersützen eine erflogreiche und kundenorientierte E-Commerce Strategie zu entwerfen. ",
     "DIGITAL_HEADER": "Digitale Unternehnemsstrategie",
-    "DIGITAL_TEXT": "Wir kalkulieren ihre Chancen und Riskien und assistieren sie dabei ihren Unternehmserflog druch den Einsatz digitaler Technologien zu steigern.",
+    "DIGITAL_TEXT": "Wir kalkulieren ihre Chancen und Riskien und untersützen sie dabei, ihren Unternehmserflog druch den Einsatz digitaler Technologien zu steigern.",
     "SOCIALMEIDA_HEADER": "Social Media Marketing Strategie",
-    "SOCIALMEDIA_TEXT": "Unser Ziel ist es ihren Social Media Auftritt mit Strategischen Grundlagen auf das nächste Level zu bringen. Diese leitet ihre Aktivitäten und informiert über Erfloge und Fehlschläge."
+    "SOCIALMEDIA_TEXT": "Unser Ziel ist es, ihren Social Media Auftritt mit strategischen Grundlagen auf das nächste Level zu bringen. Diese leitet ihre Aktivitäten und informiert über Erfloge und Fehlschläge."
+  },
+  "TIMELINE":{
+    "HEADER":"Wie wir arbeiten",
+    "INTROTEXT":"Agile Software Entwicklung steht bei uns im Mittelpunkt, um pass genau auf ihren Individualisierungsgrad eigehen zu können. Agile Methoden helfen dabei, Entwicklungsschritte besser zu priorisieren und erste Projekt Abschnitte früher veröffentlichen zu können.",
+    "HEADER1":"1. Phase - Konzeption",
+    "NUM1":"01",
+    "PART1":"Initial difinieren wir mit ihnen zusammen die Anforderungen an das Webseiten, App-Projekt oder auch Webshop Projekt. Dabei steht Usability und Benutzerführung bei uns immer im Fordergrund. Aus diesen Anforderungen entsteht ein umfassender Backlog, welcher mit ihnen zusammen priorisiert wird, um daraus einen agilen Projektplan entwicklen zu können.",
+    "HEADER2":"2. Phase - Design- und Entwicklungphase",
+    "NUM2":"02",
+    "PART2":"In jeweils kurzen Sprints (2-3 Wochen) entsteht im Anschluss, im engen austausch mit ihnen, ihre Web-Anwendung. Ziel der Design und Entwicklungphase ist es in regemäßigen Abschnitten bereits in sich funktionierende Features veröffentlichen zu köennen.",
+    "HEADER3":"3. Phase - Testing- und Qualitätssicherung",
+    "NUM3":"03",
+    "PART3":"Um die Qulität des Proejekts im Rahmen der Entwicklung ständig überwachen zu können, setzten wit Automatisierte Überwachungstools ein. Durch den flexiblen Ablauf des Projekts können sie als Kunde in jeder Phase des Projekts ihre Ideen einbringen, während wir uns um die Entwicklung ihrer Anwendung kümmern.",
+    "HEADER4":"4. Phase - Rollout und Weiterentwicklung",
+    "NUM4":"04",
+    "PART4":"Auch nach Abschluss der Entwicklung ihrer Mobilen Anwendung, Webseite oder auch Webshop, stehen wir ihnen immer unterstützend zur Seite. Bei weiteren Anforderungen wie Schnittstellenentwicklungen so wie fortlaufender Qualitätssicherung, können sich sich als zuverlässigen Partner an ihrer Seite verlassen."
   }
 }

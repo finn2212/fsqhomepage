@@ -1,10 +1,4 @@
 {
-  "HEADER": {
-    "ABOUT": "Über",
-    "TITLE": "hello titile",
-    "LANGUAGE": "Language",
-    "HELP": "Help"
-  },
   "FOOTER": {
     "EN": "Englisch",
     "DE": "Deutsch"
@@ -38,5 +32,58 @@
     "DIGITAL_TEXT": "Wir kalkulieren ihre Chancen und Riskien und untersützen sie dabei, ihren Unternehmserflog druch den Einsatz digitaler Technologien zu steigern.",
     "SOCIALMEIDA_HEADER": "Social Media Marketing Strategie",
     "SOCIALMEDIA_TEXT": "Unser Ziel ist es, ihren Social Media Auftritt mit strategischen Grundlagen auf das nächste Level zu bringen. Diese leitet ihre Aktivitäten und informiert über Erfloge und Fehlschläge."
+  },
+  "TIMELINE": {
+    "HEADER": "Wie wir arbeiten",
+    "INTROTEXT": "Agile Software Entwicklung steht bei uns im Mittelpunkt, um pass genau auf ihren Individualisierungsgrad eigehen zu können. Agile Methoden helfen dabei, Entwicklungsschritte besser zu priorisieren und erste Projekt Abschnitte früher veröffentlichen zu können.",
+    "HEADER1": "1. Phase - Konzeption",
+    "NUM1": "01",
+    "PART1": "Initial difinieren wir mit ihnen zusammen die Anforderungen an das Webseiten, App-Projekt oder auch Webshop Projekt. Dabei steht Usability und Benutzerführung bei uns immer im Fordergrund. Aus diesen Anforderungen entsteht ein umfassender Backlog, welcher mit ihnen zusammen priorisiert wird, um daraus einen agilen Projektplan entwicklen zu können.",
+    "HEADER2": "2. Phase - Design- und Entwicklungphase",
+    "NUM2": "02",
+    "PART2": "In jeweils kurzen Sprints (2-3 Wochen) entsteht im Anschluss, im engen austausch mit ihnen, ihre Web-Anwendung. Ziel der Design und Entwicklungphase ist es in regemäßigen Abschnitten bereits in sich funktionierende Features veröffentlichen zu köennen.",
+    "HEADER3": "3. Phase - Testing- und Qualitätssicherung",
+    "NUM3": "03",
+    "PART3": "Um die Qulität des Proejekts im Rahmen der Entwicklung ständig überwachen zu können, setzten wit Automatisierte Überwachungstools ein. Durch den flexiblen Ablauf des Projekts können sie als Kunde in jeder Phase des Projekts ihre Ideen einbringen, während wir uns um die Entwicklung ihrer Anwendung kümmern.",
+    "HEADER4": "4. Phase - Rollout und Weiterentwicklung",
+    "NUM4": "04",
+    "PART4": "Auch nach Abschluss der Entwicklung ihrer Mobilen Anwendung, Webseite oder auch Webshop, stehen wir ihnen immer unterstützend zur Seite. Bei weiteren Anforderungen wie Schnittstellenentwicklungen so wie fortlaufender Qualitätssicherung, können sich sich als zuverlässigen Partner an ihrer Seite verlassen."
+  },
+  "CONTACT": {
+    "HEADER": "Kontaktieren sie uns",
+    "INTROTEXT": "Wir freuen uns darauf mit ihnen in den Kontakt zu kommen und ein kostenloses Erstgespräch mit ihnen zu vereinbaren",
+    "PLACEHOLDERNAME": "Ihr Name",
+    "PLACEHOLDERMAIL": "Ihre Email Adresse",
+    "SEND": "Absenden"
+  },
+  "HEADER": {
+    "HOME": "Home",
+    "OURSERVICES": "Unsere Leistungen",
+    "WEBDESIGN": "Webdesign",
+    "ECOM": "E-Commerce",
+    "SOFTWARESOLUTIONS": "Software Solutions",
+    "SOCIALMEDIA": "Social Media",
+    "ABOUTUS": "Über Uns",
+    "CONTACT": "Kontakt"
+  },
+  "WHATWEDID": {
+    "SPAN": "Ihr vertrauenswürdiger Partner",
+    "HEADER": "Hand in Hand Lösen wir ihr Anliegen",
+    "BOXHEADER1": "In jedem Prozessschritt behalten sie die Kontrolle",
+    "BOXTEXT1": "Unser Ziel ist es ihnen in jedem Prozessschritt die vollste Transparanz zu gewähren. Wir freuen uns darauf ihr Feedback in jeder Phase zu berücksichtigen.",
+    "BOXHEADER2": "Agile Vorgehnsweise ",
+    "BOXTEXT2": "Mithilfe Agilier Methoden kommen wir schnell zu unserem Ziel und können dabei immer auf Veränderungen der Anforderungen regaieren. Ihre Wünsche stehen dabei im Mittelpunkt unserer Bemühungen.",
+    "BOXHEADER3": "Langjährige Erfahrung",
+    "BOXTEXT3": "Durch unsere Langjährige Erfarhung in Theorie und Praxis der IT können wir ihnen mit Maßgeschneiderten Lösungen helfen.",
+    "BOXHEADER4": "Akuellste IT Kenntnisse",
+    "BOXTEXT4": "Wir möchten ihnen ein möglichst nachhaltiges Produkt liefern, deswegen benutzen wir nur die neusten Techniken.",
+    "NUMHEADER1":"Erflogreiche Projekte",
+    "NUMTEXT1":"Mithilfe unserer großen Projekt Erfahrung können wir ihnen optimal helfen",
+    "NUMHEADER2":"Business Partner",
+    "NUMTEXT2":"Sie profitieren durch unser großes Netzwerk an Business Partnern, indem wir ihnen immer die besten Konditionen anbieteen können.",
+    "NUMHEADER3":"Zufriedene Kunden",
+    "NUMTEXT3":"Die Menge unserer Zufriedenen Kunden wächst stetig an.",
+    "NUMHEADER4":"Berufserfarhung",
+    "NUMTEXT4":"Unsere Berufserfarhung in der Technologie Branche wird ihnen helfen ihre probleme Optimal lösen."
   }
 }
