@@ -54,7 +54,7 @@
     "INTROTEXT": "We look forward to getting in touch with you and arranging a free initial consultation.",
     "PLACEHOLDERNAME": "Your Name",
     "PLACEHOLDERMAIL": "Your email address",
-    "PLACEHOLDERBETREFF":"Your Subject",
+    "PLACEHOLDERBETREFF": "Your Subject",
     "SEND": "Submit"
   },
   "HEADER": {
@@ -120,6 +120,18 @@
     "SERVICE": "Our services",
     "HEADER": "Web design",
     "TEXT1": "An outdated, confusing or non-functional website will do lasting damage to your brand. In order to convince a customer of your product in the first few seconds, your web presence plays a major role. We at Fsquared Media are specialised in analysing your target group and creating an optimal online presence for you.",
-    "TEXT2": "With the help of appealing web design, your website will be given a uniform look. It is therefore necessary to consider all aspects such as structure and layout with images, colours, fonts and graphics when planning the website."
+    "TEXT2": "With the help of appealing web design, your website will be given a uniform look. It is therefore necessary to consider all aspects such as structure and layout with images, colours, fonts and graphics when planning the website.",
+    "TEXT3": "Web design consists of various components: graphic design, user experience, search engine optimization and content creation. Our job is to take care of them in each of these steps and to provide them with the best possible result.",
+    "HEADER2": "Our Goes and Nogoes on web design:",
+    "TEXT4": "Effective web design brings together benefits that can significantly increase the conversion rate of your product.",
+    "LI1": "Appealing use of negative space",
+    "LI2": "Simple user guidance should always be clear to the user, which options he has call call to action",
+    "LI3": "esponsive design they should know if their target group is increasingly accessing their website with mobile devices",
+    "LI4": "Relevant and high-quality content",
+    "HEADER3": "They should avoid the following things:",
+    "LI5": "Distracting images and backgrounds. Each image should be relevant to the topic",
+    "LI6": "Kein Responsive Design",
+    "LI7": "Irrelevant information that only serves as a fill text",
+    "TEXTHELP": "We will help them with each of these steps and will give them the best possible advice."
   }
 }
