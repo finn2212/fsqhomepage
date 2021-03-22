@@ -1,10 +1,4 @@
 {
-  "HEADER": {
-    "ABOUT": "Über",
-    "TITLE": "hello titile",
-    "LANGUAGE": "Language",
-    "HELP": "Help"
-  },
   "FOOTER": {
     "EN": "Englisch",
     "DE": "Deutsch"
@@ -39,20 +33,76 @@
     "SOCIALMEIDA_HEADER": "Social Media Marketing Strategie",
     "SOCIALMEDIA_TEXT": "Unser Ziel ist es, ihren Social Media Auftritt mit strategischen Grundlagen auf das nächste Level zu bringen. Diese leitet ihre Aktivitäten und informiert über Erfloge und Fehlschläge."
   },
-  "TIMELINE":{
-    "HEADER":"Wie wir arbeiten",
-    "INTROTEXT":"Agile Software Entwicklung steht bei uns im Mittelpunkt, um pass genau auf ihren Individualisierungsgrad eigehen zu können. Agile Methoden helfen dabei, Entwicklungsschritte besser zu priorisieren und erste Projekt Abschnitte früher veröffentlichen zu können.",
-    "HEADER1":"1. Phase - Konzeption",
-    "NUM1":"01",
-    "PART1":"Initial difinieren wir mit ihnen zusammen die Anforderungen an das Webseiten, App-Projekt oder auch Webshop Projekt. Dabei steht Usability und Benutzerführung bei uns immer im Fordergrund. Aus diesen Anforderungen entsteht ein umfassender Backlog, welcher mit ihnen zusammen priorisiert wird, um daraus einen agilen Projektplan entwicklen zu können.",
-    "HEADER2":"2. Phase - Design- und Entwicklungphase",
-    "NUM2":"02",
-    "PART2":"In jeweils kurzen Sprints (2-3 Wochen) entsteht im Anschluss, im engen austausch mit ihnen, ihre Web-Anwendung. Ziel der Design und Entwicklungphase ist es in regemäßigen Abschnitten bereits in sich funktionierende Features veröffentlichen zu köennen.",
-    "HEADER3":"3. Phase - Testing- und Qualitätssicherung",
-    "NUM3":"03",
-    "PART3":"Um die Qulität des Proejekts im Rahmen der Entwicklung ständig überwachen zu können, setzten wit Automatisierte Überwachungstools ein. Durch den flexiblen Ablauf des Projekts können sie als Kunde in jeder Phase des Projekts ihre Ideen einbringen, während wir uns um die Entwicklung ihrer Anwendung kümmern.",
-    "HEADER4":"4. Phase - Rollout und Weiterentwicklung",
-    "NUM4":"04",
-    "PART4":"Auch nach Abschluss der Entwicklung ihrer Mobilen Anwendung, Webseite oder auch Webshop, stehen wir ihnen immer unterstützend zur Seite. Bei weiteren Anforderungen wie Schnittstellenentwicklungen so wie fortlaufender Qualitätssicherung, können sich sich als zuverlässigen Partner an ihrer Seite verlassen."
+  "TIMELINE": {
+    "HEADER": "Wie wir arbeiten",
+    "INTROTEXT": "Agile Software Entwicklung steht bei uns im Mittelpunkt, um pass genau auf ihren Individualisierungsgrad eigehen zu können. Agile Methoden helfen dabei, Entwicklungsschritte besser zu priorisieren und erste Projekt Abschnitte früher veröffentlichen zu können.",
+    "HEADER1": "1. Phase - Konzeption",
+    "NUM1": "01",
+    "PART1": "Initial difinieren wir mit ihnen zusammen die Anforderungen an das Webseiten, App-Projekt oder auch Webshop Projekt. Dabei steht Usability und Benutzerführung bei uns immer im Fordergrund. Aus diesen Anforderungen entsteht ein umfassender Backlog, welcher mit ihnen zusammen priorisiert wird, um daraus einen agilen Projektplan entwicklen zu können.",
+    "HEADER2": "2. Phase - Design- und Entwicklungphase",
+    "NUM2": "02",
+    "PART2": "In jeweils kurzen Sprints (2-3 Wochen) entsteht im Anschluss, im engen austausch mit ihnen, ihre Web-Anwendung. Ziel der Design und Entwicklungphase ist es in regemäßigen Abschnitten bereits in sich funktionierende Features veröffentlichen zu köennen.",
+    "HEADER3": "3. Phase - Testing- und Qualitätssicherung",
+    "NUM3": "03",
+    "PART3": "Um die Qulität des Proejekts im Rahmen der Entwicklung ständig überwachen zu können, setzten wit Automatisierte Überwachungstools ein. Durch den flexiblen Ablauf des Projekts können sie als Kunde in jeder Phase des Projekts ihre Ideen einbringen, während wir uns um die Entwicklung ihrer Anwendung kümmern.",
+    "HEADER4": "4. Phase - Rollout und Weiterentwicklung",
+    "NUM4": "04",
+    "PART4": "Auch nach Abschluss der Entwicklung ihrer Mobilen Anwendung, Webseite oder auch Webshop, stehen wir ihnen immer unterstützend zur Seite. Bei weiteren Anforderungen wie Schnittstellenentwicklungen so wie fortlaufender Qualitätssicherung, können sich sich als zuverlässigen Partner an ihrer Seite verlassen."
+  },
+  "CONTACT": {
+    "HEADER": "Kontaktieren sie uns",
+    "INTROTEXT": "Wir freuen uns darauf mit ihnen in den Kontakt zu kommen und ein kostenloses Erstgespräch mit ihnen zu vereinbaren",
+    "PLACEHOLDERNAME": "Ihr Name",
+    "PLACEHOLDERMAIL": "Ihre Email Adresse",
+    "SEND": "Absenden"
+  },
+  "HEADER": {
+    "HOME": "Home",
+    "OURSERVICES": "Unsere Leistungen",
+    "WEBDESIGN": "Webdesign",
+    "ECOM": "E-Commerce",
+    "SOFTWARESOLUTIONS": "Software Solutions",
+    "SOCIALMEDIA": "Social Media",
+    "ABOUTUS": "Über Uns",
+    "CONTACT": "Kontakt"
+  },
+  "WHATWEDID": {
+    "SPAN": "Ihr vertrauenswürdiger Partner",
+    "HEADER": "Hand in Hand Lösen wir ihr Anliegen",
+    "BOXHEADER1": "In jedem Prozessschritt behalten sie die Kontrolle",
+    "BOXTEXT1": "Unser Ziel ist es ihnen in jedem Prozessschritt die vollste Transparanz zu gewähren. Wir freuen uns darauf ihr Feedback in jeder Phase zu berücksichtigen.",
+    "BOXHEADER2": "Agile Vorgehnsweise ",
+    "BOXTEXT2": "Mithilfe Agilier Methoden kommen wir schnell zu unserem Ziel und können dabei immer auf Veränderungen der Anforderungen regaieren. Ihre Wünsche stehen dabei im Mittelpunkt unserer Bemühungen.",
+    "BOXHEADER3": "Langjährige Erfahrung",
+    "BOXTEXT3": "Durch unsere Langjährige Erfarhung in Theorie und Praxis der IT können wir ihnen mit Maßgeschneiderten Lösungen helfen.",
+    "BOXHEADER4": "Akuellste IT Kenntnisse",
+    "BOXTEXT4": "Wir möchten ihnen ein möglichst nachhaltiges Produkt liefern, deswegen benutzen wir nur die neusten Techniken.",
+    "NUMHEADER1": "Erflogreiche Projekte",
+    "NUMTEXT1": "Mithilfe unserer großen Projekt Erfahrung können wir ihnen optimal helfen",
+    "NUMHEADER2": "Business Partner",
+    "NUMTEXT2": "Sie profitieren durch unser großes Netzwerk an Business Partnern, indem wir ihnen immer die besten Konditionen anbieteen können.",
+    "NUMHEADER3": "Zufriedene Kunden",
+    "NUMTEXT3": "Die Menge unserer Zufriedenen Kunden wächst stetig an.",
+    "NUMHEADER4": "Berufserfarhung",
+    "NUMTEXT4": "Unsere Berufserfarhung in der Technologie Branche wird ihnen helfen ihre probleme Optimal lösen."
+  },
+  "ECOMMERCE": {
+    "SERVICE":"Service",
+    "HEADER": "Erfolgreich im E-Commerce – 7 Tipps für Onlineshopbetreiber",
+    "TEXT1": "Das Betreiben eines eigenen Onlineshops bedarf viel Aufwand. So muss man beachten, ob das Design ansprechend ist, die Logistik einwandfrei funktioniert und die Kunden zufrieden sind. Fsquared Media ist darauf spezialisiert, ihnen bei ihren Fragen rund um den Onlineshop zu assistieren. Wir unterstützen sie bei einzelnen Anliegen rund um ihren bestehenden Onlineshop oder auch bei dem Aufbau eines neuen Shops. Dass ein Onlineshop erfolgreich ankommt, hängt von einer Menge Faktoren ab. Einer entscheidenden Gründe ist das Payment Angebot. Dies Ergab eine Studie der ECC Handel Köln, demnach ist dies für 42% ein Grund, um sogar zur Konkurrenz abzuwandern. Daher folgende 10 Tipps für ihren Onlineshop:",
+    "ADVISE1": "Tipp 1",
+    "TEXTAD1": "Die Konversionsrate optimieren: Die Konversionsrate misst wie viele Besucher ihres Shops zu zahlenden Kunden werden. Desto mehr Besucher ihres Webshops auch bei ihnen kaufen, desto mehr Umsatz generieren sie. Eine Optimierung dieser Rate steht bei uns daher immer im Mittelpunkt.",
+    "ADVISE2": "Tipp 2",
+    "TEXTAD2": "Einen optimales Payment-Angebot: Sie können einen Optimalen Payment-Mix erreichen, wenn sie 3-6 verschiedenen Bezahlverfahren anbieten können. Nutzer mögen es eine große Auswahl zu bekommen, um ihr Favorisiertes Zahlungsmittel auswählen zu können. Wir helfen ihnen dabei verschiedenste Bezahlmethoden in ihren Onlineshop einzubinden, wie Kartenzahlung, PayPal, Onlinebanking und viele weitere.",
+    "ADVISE3": "Tipp 3",
+    "TEXTAD3": "Alle gängigen Zahlungsmethoden anbieten: Um ein möglichst hohes Angebot an Zahlungsmethoden anbieten zu können, sollte Unternehmen mit einem Payment Service Provider und einem Acquirer zusammenarbeiten. Dieses Zusammenspiel sorgt dafür dann sowohl dafür, dass technisch alle Zahlungsmethoden angeboten werden können als auch das alle Methoden angenommen und abgewickelt werden. Wir arbeiten mit Dienstleistern zusammen, welche alle Lösungen aus einer Hand bieten und ihnen einen möglichst Risikofreien Ablauf gewähren.",
+    "ADVISE4": "Tipp 4",
+    "TEXTAD4": "Richtiges Risikomanagement Betreiben: Sie sollten darauf achten, dass ihr Webshop korrekt abgesichert ist. Nicht auf offenen Rechnungen sitzenzubleiben, kann für sie als Betreiber entscheidend sein. Wir arbeiten mit Payment Service Providern zusammen, die Betrugsversuche erkennen und sie vor solchen beschützen.",
+    "ADVISE5": "Tipp 5",
+    "TEXTAD5": "Zeitgemäße Usability: Damit die Besucher ihrer Seite so großes Vertrauen in ihren Onlineshop haben und bei ihnen Einkaufen, muss alles aus einem in einem Stiel angeboten werden. Gerade im Check-out müssen ihre Kunden vollstes Vertrauen haben. Wir arbeiten mit modernsten Störsystemen und helfen ihnen bei der Optimierung der Customer Journey.",
+    "ADVISE6": "Tipp 6",
+    "TEXTAD6": "State of the Art Services: Zeit ist das wertvollste Gut eines Unternehmers, durch das Einsetzten von modernen Webservices können sie Prozesse automatisieren und gewinnen dadurch wertvolle Zeit. Wir helfen ihnen Prozesse zu analysieren und ihre Wertschöpfungskette zu optimieren in dem gezielt einzelne Bestandteilen automatisiert werden.",
+    "ADVISE7": "Tipp 7",
+    "TEXTAD7": "Die Zielgruppe genau kennen: Wie in allen anderen Branchen gilt es auch im E-Commerce, dass die Zielgruppendefinition erfolgversprechend ist. Sie sollten daher ihre Zielgruppe genau kennen. Das Kaufverhalten kann stark variieren, so kaufen Männer anders als Frauen, Kleidung wird anders bezahlt als Software. Wir helfen ihnen dabei ihre Zielgruppe zu verstehen und individualisieren ihren Webshop passgenau auf ihre Zielgruppe.",
   }
 }
