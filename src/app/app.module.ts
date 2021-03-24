@@ -29,6 +29,8 @@ import { SocialmediaComponent } from './components/pages/socialmedia/socialmedia
 import { AboutusComponent } from './components/pages/aboutus/aboutus.component';
 import { ContactComponentComponent } from './components/layouts/contact-component/contact-component.component';
 import { WhatwedidComponent } from './components/layouts/whatwedid/whatwedid.component';
+import { CommingsoonComponent } from './components/pages/commingsoon/commingsoon.component';
+
 
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient);
@@ -52,7 +54,8 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     SocialmediaComponent,
     AboutusComponent,
     ContactComponentComponent,
-    WhatwedidComponent
+    WhatwedidComponent,
+    CommingsoonComponent
   ],
   imports: [
     BrowserModule,

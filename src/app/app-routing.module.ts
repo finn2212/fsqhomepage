@@ -8,6 +8,9 @@ import { WebdesignComponent } from './components/pages/webdesign/webdesign.compo
 import { EcommerceComponent } from './components/pages/ecommerce/ecommerce.component';
 import { SoftwaresolutionsComponent } from './components/pages/softwaresolutions/softwaresolutions.component';
 import { AboutusComponent } from './components/pages/aboutus/aboutus.component';
+import { ImpressumComponent } from './components/pages/Impressum/impressum.component';
+import { SocialmediaComponent } from './components/pages/socialmedia/socialmedia.component';
+
 
 
 const routes: Routes = [
@@ -27,13 +30,16 @@ const routes: Routes = [
     path:'softwaresolutions',component:SoftwaresolutionsComponent
   },
   {
-    path:'webdesign',component:WebdesignComponent
+    path:'socialmedia',component:SocialmediaComponent
   },
   {
     path:'services',component:ServicesComponent
   },
   {
     path:'about-us',component:AboutusComponent
+  },
+  {
+    path:'impressum',component:ImpressumComponent
   },
   {
     path:'**',component:ErrorComponent

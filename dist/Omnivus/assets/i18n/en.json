@@ -1,13 +1,137 @@
 {
-    "HEADER": {
-      "ABOUT": "About",
-      "TITLE": "hello titile",
-      "LANGUAGE": "Language",
-      "HELP"   : "Help" 
-      
-    },
-    "FOOTER":{
-      "EN":"English",
-      "DE":"German"
-    }
+  "FOOTER": {
+    "EN": "English",
+    "DE": "German"
+  },
+  "HOME": {
+    "HEADER1": "Fsquared Media",
+    "HEAEDR2": "IT Solutions",
+    "HEADER3": "Make your next step",
+    "BUTTON_QUOTE": "Contact us now",
+    "BUTTON_MORE": "Learn more"
+  },
+  "WHATWEOFFER": {
+    "HEADER1": "Our services",
+    "HEADER2": "Your concern is our passion",
+    "TEXT1": "Our passion is to take the digitalisation of your company to the next level. Together with you, we explore unused potential and place it in the market in the best possible way. We specialise in the development of digital solutions such as web shops, web applications or mobile applications for iOS and Android. Our role as a team is to provide you with comprehensive support and to continue to support you in social media marketing even after successful development. ",
+    "SERVICE_HEADER1": "Web design",
+    "SERVICE_TEXT1": "First impressions make the difference between success and failure. We support you with your professional online presence.",
+    "SERVICE_HEADER2": "E-commerce",
+    "SERVICE_TEXT2": "Take your business to the next level. With the help of a webshop you are always available even after closing time.",
+    "SERVICE_HEADER3": "Software",
+    "SERVICE_TEXT3": "Mobile apps, web applications or even data imports, we develop your individual complete solution.",
+    "SERVICE_HEADER4": "Social media",
+    "SERVICE_TEXT4": "With the help of the targeted use of social media, we help you to optimally address your target group and increase your sales."
+  },
+  "DIGITALSTRATEGY": {
+    "HEADER1": "MORE THAN JUST A PROBLEM SOLVER",
+    "HEADER2": "We develop your holistic digital strategy",
+    "ECOMMERCE_HEADER": "Maximising e-commerce success",
+    "ECOMMERCE_TEXT": "Good things can always be optimised, so we continuously develop your solution and help you create a successful and customer-oriented e-commerce strategy. ",
+    "DIGITAL_HEADER": "Digital business strategy",
+    "DIGITAL_TEXT": "We calculate your chances and risks and support you in increasing your company's success through the use of digital technologies.",
+    "SOCIALMEIDA_HEADER": "Social Media Marketing Strategy",
+    "SOCIALMEDIA_TEXT": "Our goal is to take your social media presence to the next level with strategic foundations. This guides their activities and informs them of successes and failures."
+  },
+  "TIMELINE": {
+    "HEADER": "How we work",
+    "INTROTEXT": "Agile software development is at the heart of our work to ensure that we can match your level of customisation. Agile methods help to better prioritise development steps and to be able to release first project phases earlier.",
+    "HEADER1": "1st phase - conception",
+    "NUM1": "01",
+    "PART1": "Initially, we work with you to define the requirements for your website, app project or webshop project. Usability and user guidance are always in the foreground. From these requirements, a comprehensive backlog is created, which is prioritised together with you in order to be able to develop an agile project plan.",
+    "HEADER2": "Phase 2 - Design and development phase",
+    "NUM2": "02",
+    "PART2": "Your web application is then developed in short sprints (2-3 weeks) in close cooperation with you. The aim of the design and development phase is to be able to publish features that already function in themselves in regular stages.",
+    "HEADER3": "Phase 3 - Testing and quality assurance",
+    "NUM3": "03",
+    "PART3": "In order to constantly monitor the quality of the project during development, we use automated monitoring tools. Due to the flexible process of the project, you as a customer can contribute your ideas in every phase of the project, while we take care of the development of your application.",
+    "HEADER4": "Phase 4 - Rollout and further development",
+    "NUM4": "04",
+    "PART4": "Even after the development of your mobile application, website or webshop has been completed, we are always there to support you. For further requirements such as interface development and ongoing quality assurance, you can rely on us as a reliable partner at your side."
+  },
+  "CONTACT": {
+    "HEADER": "Contact us",
+    "INTROTEXT": "We look forward to getting in touch with you and arranging a free initial consultation.",
+    "PLACEHOLDERNAME": "Your Name",
+    "PLACEHOLDERMAIL": "Your email address",
+    "PLACEHOLDERBETREFF": "Your Subject",
+    "SEND": "Submit"
+  },
+  "HEADER": {
+    "HOME": "Home",
+    "OURSERVICES": "Our services",
+    "WEBDESIGN": "Web design",
+    "ECOM": "E-commerce",
+    "SOFTWARESOLUTIONS": "Software Solutions",
+    "SOCIALMEDIA": "Social Media",
+    "ABOUTUS": "About us",
+    "CONTACT": "Contact"
+  },
+  "WHATWEDID": {
+    "SPAN": "Your trustworthy partner",
+    "HEADER": "Hand in hand we solve your problems",
+    "BOXHEADER1": "You remain in control at every step of the process",
+    "BOXTEXT1": "Our aim is to provide you with full transparency at every stage of the process. We look forward to taking your feedback into account at every stage.",
+    "BOXHEADER2": "Agile approach ",
+    "BOXTEXT2": "With the help of agile methods we reach our goal quickly and can always react to changes in requirements. Your wishes are at the centre of our efforts.",
+    "BOXHEADER3": "Many years of experience",
+    "BOXTEXT3": "Through our long experience in theory and practice of IT we can help you with tailor-made solutions.",
+    "BOXHEADER4": "Up-to-date IT knowledge",
+    "BOXTEXT4": "We want to provide you with a product that is as sustainable as possible, which is why we only use the latest technologies.",
+    "NUMHEADER1": "Successful projects",
+    "NUMTEXT1": "With our extensive project experience we can help you in the best possible way.",
+    "NUMHEADER2": "Business Partner",
+    "NUMTEXT2": "You benefit from our large network of business partners, as we can always offer you the best conditions.",
+    "NUMHEADER3": "Satisfied customers",
+    "NUMTEXT3": "The number of our satisfied customers is constantly growing.",
+    "NUMHEADER4": "Professional experience",
+    "NUMTEXT4": "Our professional experience in the technology sector will help you to solve your problems optimally."
+  },
+  "ECOMMERCE": {
+    "SERVICE": "Service",
+    "HEADER": "Successful in e-commerce - 7 tips for online shop operators",
+    "TEXT1": "Running your own online shop requires a lot of effort. For example, you have to make sure that the design is appealing, the logistics work perfectly and the customers are satisfied. Fsquared Media is specialised in assisting you with your questions about the online shop. We support you with individual concerns about your existing online shop or even with setting up a new shop. The success of an online shop depends on a lot of factors. One of the decisive reasons is the payment offer. This was the result of a study by ECC Handel Cologne, according to which this is a reason for 42% to even migrate to the competition. Therefore the following 10 tips for your online shop:",
+    "ADVISE1": "Tip 1",
+    "TEXTAD1": "Optimise the conversion rate: The conversion rate measures how many visitors to your shop become paying customers. The more visitors to your webshop buy from you, the more sales you generate. We therefore always focus on optimising this rate.",
+    "ADVISE2": "Tip 2",
+    "TEXTAD2": "An optimal payment offer: You can achieve an optimal payment mix if you can offer 3-6 different payment methods. Users like to have a wide choice to select their favourite payment method. We help you to integrate different payment methods into your online shop, such as card payment, PayPal, online banking and many more.",
+    "ADVISE3": "Tip 3",
+    "TEXTAD3": "Offer all common payment methods: In order to be able to offer the widest possible range of payment methods, companies should work together with a payment service provider and an acquirer. This interaction ensures that all payment methods can be offered technically and that all methods are accepted and processed. We work with service providers who offer all solutions from a single source and guarantee you a process that is as risk-free as possible.",
+    "ADVISE4": "Tip 4",
+    "TEXTAD4": "Proper risk management: You should make sure that your webshop is properly secured. Not being left with unpaid invoices can be crucial for you as an operator. We work with payment service providers who recognise fraud attempts and protect you from them.",
+    "ADVISE5": "Tip 5",
+    "TEXTAD5": "Contemporary usability: In order for visitors to your site to have such great confidence in your online shop and to shop with you, everything must be offered in a single stanza. Especially in the check-out, your customers must have complete confidence. We work with the most modern disruption systems and help them optimise the customer journey.",
+    "ADVISE6": "Tip 6",
+    "TEXTAD6": "State of the Art Services: Time is the most valuable asset of an entrepreneur, by using modern web services you can automate processes and gain valuable time. We help you to analyse processes and optimise your value chain by automating specific components.",
+    "ADVISE7": "Tip 7",
+    "TEXTAD7": "Know your target group precisely: As in all other industries, it is also true in e-commerce that the definition of the target group is the key to success. You should therefore know your target group exactly. Buying behaviour can vary greatly, for example, men buy differently than women, clothing is paid for differently than software. We help you to understand your target group and individualise your webshop to fit your target group exactly."
+  },
+  "SOFTWARESOLUTIONS": {
+    "SERVICE": "Our service",
+    "HEADER": "Individual software solutions",
+    "TEXT1": "We find a solution to solve your IT problem. Specialised in integrated software solutions, we support you in implementing complex software packages. Planning, introduction, operation and support are complex matters where you can rely on our experience in the market.",
+    "TEXT2": "If you have a concern for which there is no ready-made solution, we can help you there too. Our developers are not only specialised in mobile applications for iOS and Android, but also in web applications.",
+    "HEADER2": "Reduce your operating costs and speed up processes",
+    "TEXT3": "Reduce your operating costs, increase your turnover and shorten slow processes. With the help of software solutions you can give your company more transparency and speed.",
+    "HEADER3": "Use your data",
+    "TEXT4": "By integrating data analysis tools, you can make the most of your data and make informed decisions based on it."
+  },
+  "WEBDESIGN": {
+    "SERVICE": "Our services",
+    "HEADER": "Web design",
+    "TEXT1": "An outdated, confusing or non-functional website will do lasting damage to your brand. In order to convince a customer of your product in the first few seconds, your web presence plays a major role. We at Fsquared Media are specialised in analysing your target group and creating an optimal online presence for you.",
+    "TEXT2": "With the help of appealing web design, your website will be given a uniform look. It is therefore necessary to consider all aspects such as structure and layout with images, colours, fonts and graphics when planning the website.",
+    "TEXT3": "Web design consists of various components: graphic design, user experience, search engine optimization and content creation. Our job is to take care of them in each of these steps and to provide them with the best possible result.",
+    "HEADER2": "Our Goes and Nogoes on web design:",
+    "TEXT4": "Effective web design brings together benefits that can significantly increase the conversion rate of your product.",
+    "LI1": "Appealing use of negative space",
+    "LI2": "Simple user guidance should always be clear to the user, which options he has call call to action",
+    "LI3": "esponsive design they should know if their target group is increasingly accessing their website with mobile devices",
+    "LI4": "Relevant and high-quality content",
+    "HEADER3": "They should avoid the following things:",
+    "LI5": "Distracting images and backgrounds. Each image should be relevant to the topic",
+    "LI6": "Kein Responsive Design",
+    "LI7": "Irrelevant information that only serves as a fill text",
+    "TEXTHELP": "We will help them with each of these steps and will give them the best possible advice."
+  }
 }
