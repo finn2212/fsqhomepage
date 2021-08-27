@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { CommonModule } from '@angular/common';  
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -32,11 +33,27 @@ import { WhatwedidComponent } from './components/layouts/whatwedid/whatwedid.com
 import { CommingsoonComponent } from './components/pages/commingsoon/commingsoon.component';
 
 
+
 export function HttpLoaderFactory(httpClient: HttpClient) {
   return new TranslateHttpLoader(httpClient);
 }
 
 @NgModule({
+  imports: [
+    CommonModule,
+    BrowserModule,
+    AppRoutingModule,
+    HttpClientModule,
+    MatButtonToggleModule,
+    TranslateModule.forRoot({
+      loader: {
+        provide: TranslateLoader,
+        useFactory: HttpLoaderFactory,
+        deps: [HttpClient]
+      }
+    }),
+    BrowserAnimationsModule
+  ],
   declarations: [
     AppComponent,
     PreloaderComponent,
@@ -56,20 +73,6 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
     ContactComponentComponent,
     WhatwedidComponent,
     CommingsoonComponent
-  ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    HttpClientModule,
-    MatButtonToggleModule,
-    TranslateModule.forRoot({
-      loader: {
-        provide: TranslateLoader,
-        useFactory: HttpLoaderFactory,
-        deps: [HttpClient]
-      }
-    }),
-    BrowserAnimationsModule
   ],
   providers: [{ provide: LocationStrategy, useClass: HashLocationStrategy }, { provide: LOCALE_ID, useValue: window.navigator.language },],
   bootstrap: [AppComponent]

@@ -4,6 +4,7 @@ import { Location, LocationStrategy, PathLocationStrategy } from '@angular/commo
 import { filter } from 'rxjs/operators';
 import { TranslateService } from '@ngx-translate/core';
 
+
 declare let $: any;
 
 @Component({
