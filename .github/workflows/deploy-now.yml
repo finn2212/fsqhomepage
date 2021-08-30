@@ -28,7 +28,7 @@ jobs:
         run: npm ci
       - name: Build project
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
-        run: ng build
+        run: npm run build
         env:
           CI: true
           SITE_URL: ${{ steps.project.outputs.site-url }}
