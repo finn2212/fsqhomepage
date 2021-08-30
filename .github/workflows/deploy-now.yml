@@ -25,7 +25,7 @@ jobs:
           node-version: 12.16.x
       - name: Prepare project environment
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
-        run: npm install
+        run: npm ci
       - name: Build project
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
         run: npm run build
@@ -39,7 +39,7 @@ jobs:
           branch-id: ${{ steps.project.outputs.branch-id }}
           storage-quota: ${{ steps.project.outputs.storage-quota }}
           project: e10b95b7-5005-41c6-a2a7-2f786299d928
-          dist-folder: dist
+          dist-folder: dist/Omnivus
           remote-host: ${{ steps.project.outputs.remote-host }}
           api-key: ${{ secrets.IONOS_API_KEY }}
           service-host: api-eu.ionos.space
